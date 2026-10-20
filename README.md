@@ -1,6 +1,6 @@
 # Andrew Carretta 👨‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&size=18&pause=1200&color=27B8D5&width=700&lines=Engineering+Platforms+that+Advance+Science;Laboratory+Automation+%7C+Scientific+Informatics;Clinical+Software+%7C+Cloud+Architecture;Building+Reliable+Systems+for+Complex+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&size=18&pause=1200&color=737373&width=700&lines=Engineering+Platforms+that+Advance+Science;Laboratory+Automation+%7C+Scientific+Informatics;Clinical+Software+%7C+Cloud+Architecture;Building+Reliable+Systems+for+Complex+Problems)](https://git.io/typing-svg)
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/andrewcarretta/)
 [![GitHub](https://img.shields.io/badge/GitHub-andrewcarretta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewcarretta)
