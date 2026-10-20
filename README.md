@@ -25,3 +25,7 @@ My experience spans laboratory robotics, scientific informatics, LIMS, clinical 
 - 🛡️ **Regulated Software** security, compliance, auditability, and quality
 - 🚀 **Engineering Leadership** technical strategy, architecture, product development, and engineering practices
 - 🧠 **Applied AI** exploring practical AI applications across scientific and clinical systems
+- 
+### 📊 GitHub Activity
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=andrewcarretta&show_icons=true&theme=tokyonight&hide_border=true)
