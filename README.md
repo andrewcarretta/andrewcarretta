@@ -15,24 +15,7 @@ My experience spans laboratory robotics, scientific informatics, LIMS, clinical 
 
 ### 🚀 My Engineering Journey
 
-```mermaid
-flowchart LR
-    A["🤖 Laboratory<br/>Automation"]
-    B["🧬 Scientific<br/>Informatics"]
-    C["🧪 Clinical<br/>Software"]
-    D["☁️ Cloud<br/>Platforms"]
-    E["🚀 Engineering<br/>Leadership"]
-
-    A --> B --> C --> D --> E
-
-    classDef science fill:#122738,stroke:#38BDF8,color:#F0F9FF,stroke-width:2px
-    classDef leadership fill:#164E63,stroke:#22D3EE,color:#FFFFFF,stroke-width:3px
-
-    class A,B,C,D science
-    class E leadership
-
-    linkStyle default stroke:#38BDF8,stroke-width:2px
-```
+**🤖 Lab Automation** → **🧬 Scientific Informatics** → **🧪 Clinical Software** → **☁️ Cloud Platforms** → **🚀 Engineering Leadership**
 
 ### ⚡ Areas of Focus
 
